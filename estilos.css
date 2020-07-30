@@ -2,7 +2,7 @@ body
 {
   color: #333;
   text-align: center;
-  font-family: "Arial";
+  font-family: "Courier";
   margin: 0;
   padding: 5;
 }
@@ -12,7 +12,7 @@ body
   padding: len;
   text-align: left;
   border: 1px solid #DDD
-  margin: 0 auto;
+  margin: 0;
 }
 
 #container h1
